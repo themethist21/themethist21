@@ -1,16 +1,13 @@
-## Hi there 👋
+# About Me
+I am 3rd year computer science student at UPC FIB. Looking for opportunities to put my studies and personal projects to use and keep honing my skills and potentially learn new things.
 
-<!--
-**themethist21/themethist21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+**I am interested in game development, here are some of my projects:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Game development projects:
+
+* ### [**Low Poly Jump**]()
+* ### [**Mickey Adventures**]()
+* ### [**OVERHEAT test demo**]()
+* ### [**Flappy Seagull**]()
