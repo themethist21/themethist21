@@ -11,3 +11,7 @@ I am 3rd year computer science student at UPC FIB. Looking for opportunities to 
 * ### [**Mickey Adventures**]()
 * ### [**OVERHEAT test demo**](https://github.com/themethist21/OVERHEAT)
 * ### [**Flappy Seagull**](https://github.com/themethist21/Flappy)
+
+
+## Other projects
+* ### [Task Calendar App](https://github.com/themethist21/Task-Calendar-App)
