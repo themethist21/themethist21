@@ -9,5 +9,5 @@ I am 3rd year computer science student at UPC FIB. Looking for opportunities to 
 
 * ### [**Low Poly Jump**]()
 * ### [**Mickey Adventures**]()
-* ### [**OVERHEAT test demo**]()
-* ### [**Flappy Seagull**]()
+* ### [**OVERHEAT test demo**](https://github.com/themethist21/OVERHEAT)
+* ### [**Flappy Seagull**](https://github.com/themethist21/Flappy)
