@@ -7,8 +7,8 @@ I am 3rd year computer science student at UPC FIB. Looking for opportunities to 
 
 ## Game development projects:
 
-* ### [**Low Poly Jump**]()
-* ### [**Mickey Adventures**]()
+* ### [**Low Poly Jump**](https://github.com/themethist21/LowPolyJump/tree/main)
+* ### [**Mickey Adventures**](https://github.com/themethist21/Mickey-Adventures/tree/main)
 * ### [**OVERHEAT test demo**](https://github.com/themethist21/OVERHEAT)
 * ### [**Flappy Seagull**](https://github.com/themethist21/Flappy)
 
