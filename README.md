@@ -1,5 +1,5 @@
 # About Me
-I am 3rd year computer science student at UPC FIB. Looking for opportunities to put my studies and personal projects to use and keep honing my skills and potentially learn new things.
+I am 4th year computer science student at UPC FIB. Looking for opportunities to put my studies and personal projects to use and keep honing my skills and potentially learn new things.
 
 <br/>
 
